@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/q7jFxCQc/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Project Banner" width="100%" />
 </p>
 
-<h1 align="center">🤖 AI-Powered Frontend Boilerplate</h1>
+<h1 align="center">🤖 AI-Powered Fashion Adviser</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI+%7C+Machine+Learning+Frontend+Boilerplate;Powering+Intelligent+Web+Applications;Blazing+Fast+Deployment+for+AI+Solutions" alt="Typing SVG" />
