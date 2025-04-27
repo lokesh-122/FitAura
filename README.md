@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/q7jFxCQc/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Project Banner" width="100%" />
+  <img src="https://i.postimg.cc/HLDjHDsJ/14a6dc15-274b-4501-bd11-47842f1e5d77.png" alt="Project Banner" width="100%" />
 </p>
 
 <h1 align="center">🤖 AI-Powered Fashion Adviser</h1>
